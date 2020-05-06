@@ -41,3 +41,8 @@
 .my-class {
   color: red;
 }
+
+.person-card {
+  border:3px solid purple;
+  margin: 30px;
+}
